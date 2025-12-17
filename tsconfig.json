@@ -1,4 +1,8 @@
 {
+  "compilerOptions": {
+    "target": "es6",
+    "module": "node24"
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
